@@ -1,0 +1,10 @@
+C:\Users\josue\source\repos\Tecnlogias\Tecnlogias\bin\Debug\Tecnlogias.exe.config
+C:\Users\josue\source\repos\Tecnlogias\Tecnlogias\bin\Debug\Tecnlogias.exe
+C:\Users\josue\source\repos\Tecnlogias\Tecnlogias\bin\Debug\Tecnlogias.pdb
+C:\Users\josue\source\repos\Tecnlogias\Tecnlogias\obj\Debug\Tecnlogias.csproj.AssemblyReference.cache
+C:\Users\josue\source\repos\Tecnlogias\Tecnlogias\obj\Debug\Tecnlogias.Form1.resources
+C:\Users\josue\source\repos\Tecnlogias\Tecnlogias\obj\Debug\Tecnlogias.Properties.Resources.resources
+C:\Users\josue\source\repos\Tecnlogias\Tecnlogias\obj\Debug\Tecnlogias.csproj.GenerateResource.cache
+C:\Users\josue\source\repos\Tecnlogias\Tecnlogias\obj\Debug\Tecnlogias.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\Tecnlogias\Tecnlogias\obj\Debug\Tecnlogias.exe
+C:\Users\josue\source\repos\Tecnlogias\Tecnlogias\obj\Debug\Tecnlogias.pdb
